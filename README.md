@@ -1,0 +1,1 @@
+Simple CLI arguments handler for my personal usage to exclude need in any third-party solutions.
